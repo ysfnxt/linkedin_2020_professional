@@ -1,4 +1,3 @@
-import ast
 import pandas as pd
 
 df = pd.read_csv('file3.csv')
